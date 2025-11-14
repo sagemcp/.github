@@ -1,4 +1,4 @@
-# SageMCP Organization
+# SageMCP Community
 
 <div align="center">
 
